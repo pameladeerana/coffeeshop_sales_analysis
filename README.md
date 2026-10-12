@@ -9,6 +9,7 @@ Analyzing coffee shop sales performance.
 5. What are the peak hours?
 
 ## Files
+- `README.md` - project overview
 - `coffee_schema.sql` - table structure
 - `coffee_data.csv` - sample 10 rows 
 - `coffee_queries.sql` - 5 business queries 
