@@ -12,6 +12,7 @@ Analyzing coffee shop sales to find revenue leaks.
 - `coffee_schema.sql` - table structure
 - `coffee_data.csv` - sample 10 rows (real dataset would be 1000+)
 - `coffee_queries.sql` - 5 business queries with explanations
+- `cofee_power_bi` - visualization of the result
 
 ## Key Insight 
 - Latte is top revenue product, Tuesdays show lowest sales, mornings 8-10am are peak.
