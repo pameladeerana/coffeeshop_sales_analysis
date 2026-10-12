@@ -26,7 +26,8 @@ Recommendation:
 - Offer espresso as add-on or bundle with pastry to boost sales.
 - Add afternoon happy hour (2-4 PM) to fix slow hour.
 
-## Tools: MySQL / Excel / Power BI
+## Tools
+MySQL, Excel, Power BI
 #
 Author: Pamela Dee Elegio Rana (@pameladeerana)
 
