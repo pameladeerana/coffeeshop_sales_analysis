@@ -27,6 +27,7 @@ Recommendation:
 - Add afternoon happy hour (2-4 PM) to fix slow hour.
 
 ## Tools: MySQL / Excel / Power BI
+#
 Author: Pamela Dee Elegio Rana (@pameladeerana)
 
 
