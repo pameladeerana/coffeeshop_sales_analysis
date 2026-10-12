@@ -1,4 +1,4 @@
-# Coffee Shop Sales Simple SQL Analysis 
+# Coffee Shop Simple Sales Analysis 
 Analyzing coffee shop sales performance.
 
 ## Business Questions
