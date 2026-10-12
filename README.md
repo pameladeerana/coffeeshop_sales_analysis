@@ -20,6 +20,7 @@ Analyzing coffee shop sales performance.
 - Tuesday is the slowest day.
 - Cash is most used, followed by GCash and card.
 - Morning is the strongest, peaking at 8 AM then 9 AM.
+#
 Recommendation:
 - Run Tuesday promos to fix slow day.
 - Offer espresso as add-on or bundle with pastry to boost sales.
