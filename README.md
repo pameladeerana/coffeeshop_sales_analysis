@@ -15,7 +15,7 @@ Analyzing coffee shop sales performance.
 - `cofee_power_bi` - visualization of the result
 
 ## Key Insight 
-- Total revenue for the day comes mostly from coffee sales.
+- Total revenue for the day is 1570 PHP which comes mostly from coffee sales.
 - Latte generates the highest revenue.
 - Tuesday is the slowest day.
 - Cash is most used, followed by GCash and card.
